@@ -1,3 +1,3 @@
- hello_world test1
+ hello_world 
 
 url:   https://asherhu.github.io/hello_world
